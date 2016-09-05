@@ -1,4 +1,4 @@
-# lsuart2210-hw-01
+# 2210hw1
 - HW: Click the following link to create your hw1 github repo:  https://classroom.github.com/assignment-invitations/a19f4ade1b1fc40591087be829f1abd5
 - HW: Create a simple p5.js sketch. Use only black and white ellipses to create a composition. Upload to github. Make it into a github pages website. 
 - HW: Read the following git tutorial: http://rogerdudler.github.io/git-guide.
